@@ -1,0 +1,14 @@
+JetBrains Mono
+SF Mono
+Fira Code
+Operator Mono
+IBM Plex Mono
+Hurmit Nerd Font Mono
+Cascadia Code
+Dank Mono
+Space Mono
+MesloLGS NF
+Anonymous Pro
+Input Mono
+Monolisa
+Victor Mono
